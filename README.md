@@ -1,4 +1,4 @@
-OUTPUT:
+OUTPUT:  
 Allocated 4 bytes  
 Vector size/capacity = 1 1  
 Allocated 8 bytes  
